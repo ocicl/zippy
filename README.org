@@ -3,8 +3,7 @@
 A ZIP archive format library based on 3bz
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/Shinmera/zippy.git   |
-| commit  | 97dc022  |
-| systems | zippy |
+| source  | git:https://github.com/Shinmera/zippy.git |
+| commit  | d957e39                                   |
+| systems | zippy                                     |
 |---------+-------------------------------------------|
-
