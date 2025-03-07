@@ -4,6 +4,6 @@ A ZIP archive format library based on 3bz
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/Shinmera/zippy.git |
-| commit  | 5669519                                   |
+| commit  | 2aad709                                   |
 | systems | zippy                                     |
 |---------+-------------------------------------------|
